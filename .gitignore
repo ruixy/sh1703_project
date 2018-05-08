@@ -1,0 +1,14 @@
+#　python
+*.py[co]
+_pycache_/
+
+# sqlite3
+*.sqlite3
+*.db
+
+# venv
+env/
+venv/
+
+# pycharm
+.idea/
